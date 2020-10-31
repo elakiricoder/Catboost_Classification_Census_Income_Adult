@@ -1,2 +1,3 @@
-# Catboost_Classification_Census_Income_Adult
-Census Income Adult Dataset - Catboost Classification - Python
+
+# Census Income Adult Dataset - Catboost Classification - Python
+Dataset is from https://archive.ics.uci.edu/ml/datasets/adult
